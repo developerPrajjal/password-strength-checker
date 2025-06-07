@@ -22,8 +22,11 @@ A responsive and stylish password strength checker built using **HTML, CSS, and 
 ---
 
 ## 📂 Project Structure
+
    ├── index.html # Main HTML structure
+   
    ├── style.css # CSS for styling and effects
+   
    └── scripts.js # JavaScript for strength logic
 
 
