@@ -46,7 +46,8 @@ A responsive and stylish password strength checker built using **HTML, CSS, and 
   JavaScript (ES6)
 
   📜 License
-This project is open source and available under the MIT License.
+  
+   This project is open source and available under the MIT License.
 
 
 🙋‍♂️ Author
