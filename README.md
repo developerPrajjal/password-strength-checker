@@ -38,7 +38,8 @@ A responsive and stylish password strength checker built using **HTML, CSS, and 
 2. Open index.html in your browser. 
 
 🔧 Technologies Used
-  HTML5
+   
+   HTML5
 
   CSS3 (with glowing animations)
 
